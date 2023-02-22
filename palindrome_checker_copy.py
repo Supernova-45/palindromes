@@ -9,8 +9,7 @@ __author__ = "Alexandra Kim"
 __version__ = "2023-02-18"
 
 import re
-from atds import Deque
-
+from atds_copy import Deque
 
 class PalindromeChecker:
     """
